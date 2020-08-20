@@ -25,10 +25,6 @@ ExamDAO edao= new ExamDAO();
 edao.inputPeople(ebean);
 %>
 
-		<script>
-		alert("회원등록이 완료되었습니다!");
-		history.go(-1);
-		</script>
 
 
 

@@ -10,6 +10,9 @@ public class ExamBean {
 	private String grade;
 	private String city;
 	
+	
+
+	
 	private int total;
 	
 	public int getCustno() {
